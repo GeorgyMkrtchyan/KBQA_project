@@ -1,0 +1,9 @@
+fuzzywuzzy
+torchtext
+nltk
+pytorch
+transformers
+wikidataintegrator
+wikidata
+tokenizers
+spacy
